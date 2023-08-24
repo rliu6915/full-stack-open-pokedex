@@ -13,3 +13,4 @@
 1. If the size of project is small, we use cloud-based becuase we need less initial setup, otherwise, we use self-hosted becuase we have more control and less cost
 
 2. if we do not have enough resource, we should use cloud-based, otherwise, we can try set up self-hosted server by ourselves.
+
