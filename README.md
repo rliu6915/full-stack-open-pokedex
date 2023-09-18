@@ -1,8 +1,6 @@
-# Full Stack open CI/CD
+# URL
 
-This repository is used for the CI/CD module of the Full stack open course
-
-Fork the repository to complete course exercises
+The deployed app is at [here](https://pokedex-1.fly.dev/)
 
 ## Commands
 
